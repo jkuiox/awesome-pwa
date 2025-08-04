@@ -59,6 +59,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Colosseum](https://naramsim.github.io/Colosseum/): Displays Pokemons in a beautiful way
 * [ComputerBase](https://www.computerbase.de/): German IT news site.
 * [Contrax](https://contrax.app): Track your contracts, subscriptions and trials.
+* [Copy coder](https://copycoder.net): introduction of copy coder.
 * [Crazy Dice](https://crazydice.netlify.app): Simple Dice App.
 * [Currency Exchange Loss Calculator](https://currency-loss.netlify.com/): Currency Exchange Loss Calculator
 * [Datememe](https://www.datememe.com): Online dating.
@@ -121,10 +122,12 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Murlok.io](https://murlok.io/): World of Warcraft Shadowlands.
 * [Music Player PWA](https://akaspanion.github.io/music-app/): Music Player.
 * [MYHELLOIOT](https://adrianromero.github.io/myhelloiot/): MQTT client application.
+* [NailDesignsMaker](https://www.naildesignsmaker.com/): A free nail designs maker
 * [Nanocell-csv](https://www.nanocell-csv.com/): A lightweight, cross platform, open-source, PWA CSV file viewer and editor
 * [Notella](https://github.com/siddharthkp/notella): No fluff notes app.
 * [OmniCam](https://www.omnicamapp.com/): Live streaming webcams around the world.
 * [Othello](https://othello-rust.web.app/): Play Othello against the computer.
+* [OpinionVote](https://opinion.vote): vote your opinion, think from different angles.
 * [PakWheels](https://www.pakwheels.com/): Buy/sell cars.
 * [Passky](https://vault.passky.org/): Free and open-source Password Manager
 * [PasteePad](https://pasteepad.com/): Free and simple notepad app
