@@ -88,7 +88,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Google Maps](https://www.google.com/maps/): Online maps.
 * [Google Photos](https://photos.google.com/): Photo management.
 * [GPA Calculator](https://gpacalculator.memorymaps.io/): Generate animated artwork from your unique GPA inputs.
-* [GPA Calculator](https://gpacalculator.io): Calculate your college GPA.
+* [GPA Calculator](https://gpacalculator.top): Calculate your college GPA.
 * [guitar-tuner](https://aerotwist.com/blog/guitar-tuner/): Aerotwist Guitar Tuner
 * [Housing Go](http://www.housing.com): Real estate in India.
 * [Hyperdraft](https://hyperdraft.rosano.ca): Turn your text notes into a website.
